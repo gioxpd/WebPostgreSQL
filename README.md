@@ -31,7 +31,6 @@ No arquivo `appsettings.json`, configure a string de conexão com o banco de dad
 - **C# e ASP.NET Core**: Framework de desenvolvimento em C# para criação de aplicações web.
 - **PostgreSQL**: Banco de dados relacional para armazenamento de dados.
 - **Entity Framework Core**: ORM para manipulação de banco de dados.
-- **Razor Pages** (opcional): Para renderização de views dinâmicas.
 
 ## Contribuição
 
